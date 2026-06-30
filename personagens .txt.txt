@@ -5,3 +5,4 @@ jogador
 inimigo
 feche
 salve
+exercicos 5 
