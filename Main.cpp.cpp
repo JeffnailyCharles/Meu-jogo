@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-	cout << "Meu jogo";
+	cout << "Aventura Magica";
 	return 0;
 }

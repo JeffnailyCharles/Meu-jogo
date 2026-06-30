@@ -1,0 +1,3 @@
+Nome: Guerreiro
+vida:100
+ataque:20
