@@ -1,3 +1,6 @@
 Nome: Guerreiro
 vida:100
 ataque:20
+jogador
+inimigo
+chefe
